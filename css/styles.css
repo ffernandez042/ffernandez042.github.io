@@ -65,9 +65,11 @@ p {
 }
 
 .infoTexto p {
-    font-size: 25px;
+    font-size: 1.5rem;
+    margin-bottom: 1vh;
 }
 
 .redes .card {
+    margin-top: 5vh;
     width: 50%;
 }
